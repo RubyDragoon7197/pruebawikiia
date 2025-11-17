@@ -6,7 +6,7 @@ export default function CategoriasWeb() {
   const [message, setMessage] = useState('');
   
   const categorias = [
-    'Distritos', 'Programación', 'Educación',
+    'Diseño', 'Programación', 'Educación',
     'Negocios y Gestión', 'Salud', 'Seguridad',
     'Ciencia', 'Arte', 'Tecnología'
   ];
